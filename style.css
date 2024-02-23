@@ -485,3 +485,6 @@ height: 40%;
 .cv{
 padding-left: 20px;
 }
+.tog{
+    max-width: 100px;
+}
