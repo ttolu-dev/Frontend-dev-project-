@@ -489,8 +489,8 @@ padding-left: 20px;
     max-width: 100px;
 }
 .um{
-    padding-bottom: 1px;
+    padding-bottom: -1px;
 }
 .ua{
-  padding: 5px;
+  padding: 8px;
 }
